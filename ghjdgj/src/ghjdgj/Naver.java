@@ -3,8 +3,11 @@ package ghjdgj;
 public class Naver {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		int a = 3, b = 2;
+		int c = a + b;
+		
+		//rkskekfk
+		System.out.println(c);
 	}
 
 }
